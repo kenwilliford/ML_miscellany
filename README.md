@@ -1,2 +1,2 @@
 # machine learning miscellany
-explorations in machine learning with neural networks, natural language processing, etc.
+Explorations in machine learning with neural networks, natural language processing, etc. including example projects from MIT xPro Data Science and Analytics course.
